@@ -42,7 +42,8 @@ If you're getting started and need assistance or face any bugs, join our active 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
-- Appwrite
+- Appwrite: open source platform for  backend in react apps.EXample
+  trending movies are shown on website based on most searched movies.
 - Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
